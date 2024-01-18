@@ -6,3 +6,11 @@ To handle earthquake data, it has been suggested to group main earthquakes and t
 For processing solar data provided by ACE, a NaN imputation using a first-order spline has been proposed. 
 
 The data spans from January 1998 to June 2021.
+
+
+========================================
+IMPORTANT
+========================================
+
+Due to the excessively large size of the files, which GitHub does not support, I have decided to upload my dataframes to my Kaggle account: https://www.kaggle.com/masescar/datasets
+
